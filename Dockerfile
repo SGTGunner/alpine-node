@@ -3,7 +3,7 @@
 # Environment: glibc
 # Minimum Panel Version: 0.6.0
 # ----------------------------------
-FROM        node:10-alpine
+FROM        node:12-alpine
 
 LABEL       author="SGTGunner" maintainer="you@sgtgunner.io"
 
